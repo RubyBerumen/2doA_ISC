@@ -1,0 +1,207 @@
+class Biseccion {
+
+	private double xi;
+	private double xu;
+	
+	//Constructor
+	public Biseccion(double xi, double xu) {
+		
+		this.xi = xi;
+		this.xu = xu;
+		
+	}
+	
+	
+	public void calcular() {
+		
+		int cont = 0;
+		double xr = 0;
+		double fxi = 0;
+		double fxr = 0;
+		double xrant = 0;
+		double fxrfxi = 0;
+
+		do {
+			
+			System.out.println("-----------------------------------------\n");
+			System.out.println("Iteracion: " + (cont+1));
+			
+			
+			// Hacemos los calculos 
+			xr = (xi+xu)/2;
+			fxi = 2.5+xi;
+			fxr = 2.5+xr;
+			fxrfxi = fxi*fxr;
+			
+			if(cont!=0) {
+				double res = xr-xrant;
+				String caracter = String.valueOf(res);
+				
+				System.out.println("Error: " + (res*100/xr));
+			}
+
+			// Calculamos fxr y fxi
+			
+			// Si es menor a 0 xu es igual a xr
+			if(fxrfxi<0) {
+				xu=xr;
+			// Si es mayor a 0 xi es igual a xr
+			}else if(fxrfxi>0) {
+				xi=xr;
+			}else {
+				// Si es igual a 0 imprimimos el valor e indicamos que hemos terminado
+				System.out.println("Raiz aproximada: " + xr);
+				break;
+			}
+			
+			
+			// Mostramos valores
+			System.out.println("f(xr)="+fxr);
+			System.out.println("f(xl)="+fxi);
+			System.out.println("xr: "+xr);
+			System.out.println("f(xl)f(xr)="+fxrfxi);
+			System.out.println("xu: "+xu);
+			System.out.println("xi: "+xi);
+
+
+			System.out.println();
+			System.out.println();
+			
+			
+			// Aumentamos nuestro valor de cont como iteracion
+			cont++;
+			
+			xrant=xr;
+			
+			// Condicion de 10 vueltas para hacer iteraciones
+		}while(cont<10);
+
+	}
+	
+}
+class ReglaFalsa {
+	private double a;
+	private double b;
+	
+	
+	public ReglaFalsa(double a, double b) {
+		
+		this.a = a;
+		this.b = b;
+		
+	}
+	
+	
+    public void calcular() {
+		
+		int cont = 0;
+		double xi;
+		double fa = 0;
+		double fb = 0;
+		double fxi = 0;
+		
+		do {
+			
+			System.out.println("-----------------------------------------");
+			System.out.println("Iteracion: " + (cont+1));
+			
+			
+			// Hacemos los calculos correspondientes
+			fa = 2.5+a;
+			fb = 2.5+b;
+			xi = (a*fb-b*fa)/(fb-fa);
+
+			
+			// Evaluando f(x)=2.5+x
+			fxi = 2.5+xi;
+			
+			
+			// Actualizando valor
+			if(fa*fxi>0) {
+				// Actualizando a
+				a=xi;
+			}else if(fa*fxi<0){
+				// Actualizando b
+				b=xi;
+			}else {
+				// Si es igual a 0 imprimimos el valor e indicamos que hemos terminado
+				System.out.println("Resultados= Xi: " + xi + ", fxi: " + fxi);
+				break;
+			}
+			
+			
+			// Mostramos valores
+			System.out.println("f(a): "+fa);
+			System.out.println("f(b): "+fb);
+			System.out.println("xi: "+xi);
+			System.out.print("f(xi): "+fxi);
+
+
+			System.out.println();
+			System.out.println();
+			
+			
+			// Aumentamos nuestro valor de cont como iteracion
+			cont++;
+
+			
+			// Condicion de 10 vueltas para hacer iteraciones
+		}while(cont<10);
+
+	}
+    
+	
+}
+
+
+public class Prueba {
+
+	public static void main(String[] args) {
+		Scanner entrada=new Scanner(System.in);
+		String op="";
+		System.out.println("La funcion en la cual se evaluara sera: f(x)=2.5+x");
+		//Menu para eleccion el metodo
+		do {
+			System.out.println("Elije una opcion");
+			System.out.println("1->Metodo de biseccion ");
+			System.out.println("2->Regla Falsa");
+			System.out.println("3->Salir");
+			op=entrada.nextLine();
+			switch (op) {
+			case "1":
+				//Pedimo los parametros
+				System.out.println("INGRESA EL PRIMER VALOR");
+				double n1=entrada.nextDouble();
+				System.out.println("INGRESA EL SEGUNDO VALOR");
+				double n2=entrada.nextDouble();
+				Biseccion bi=new Biseccion(n1,n2);
+				bi.calcular();
+				//Limpiando el buffer
+				entrada.nextLine();
+				break;
+			case "2":
+				System.out.println("INGRESA EL PRIMER VALOR");
+				double num1=entrada.nextDouble();
+				System.out.println("INGRESA EL SEGUNDO VALOR");
+				double num2=entrada.nextDouble();
+				ReglaFalsa obj=new ReglaFalsa(num1, num2);
+				obj.calcular();
+				//Limpiando el buffer
+				entrada.nextLine();
+				break;
+			case "3":
+				System.out.println("Saliendo.....");
+				
+				break;
+
+			default:
+				System.out.println("No elegiste una opcion dsiponible");
+				break;
+			}
+		}while(!op.equals("3"));
+	
+		
+
+	}
+
+}

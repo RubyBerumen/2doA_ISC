@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\clara\Desktop\Programacion\MétodosNuméricos\.metadata\.plugins\org.eclipse.jdt.core
+1211073311.index
+4045560711.index
+4109975546.index
+768275991.index
+68781361.index
+3598103633.index
+1655277773.index
+1905944599.index
+2761191416.index
+1409217619.index
+1122321517.index
+4283913009.index

@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T6_A2_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+PruebasE|1607662483417566800|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T6_A2_P_PinedoBerumenClaraRuby\PruebasE.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=Hash.__init__
+3=BusquedaBinaria
+2=PruebasE
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T6_A2_P_PinedoBerumenClaraRuby\PruebasE.py
+4=Hash
+5=BusquedaBinaria.__init__
+-- END DICTIONARY
+-- START TREE 1
+8
+bb|1|bb!1^129#1*19@
+bus|1|BusquedaBinaria!1^9#7*17@
+h|1|h!1^130#1*19@
+has|1|Hash!1^69#7*17@
+num|1|nums!1^125#1*19@
+op|1|op!1^142#5*19@
+v2|1|v2!1^151#9*19@
+val|1|valorB!1^145#9*19@
+-- END TREE
+-- START TREE 2
+13
+__i|2|__init__!3&1^10#9*18@__init__!4&1^71#9*18@
+bus|1|busqueda!3&1^16#9*18@
+com|2|comparaciones!5&1^11#9*19@comparaciones!6&1^73#9*19@
+has|1|Hash_func!4&1^78#9*18@
+ins|1|Insert!4&1^85#9*18@
+int|2|intercambios!5&1^12#9*19@intercambios!6&1^74#9*19@
+lla|2|llamadaBusquedaBinaria!3&1^33#9*18@llamadaHash!4&1^109#9*18@
+rec|2|recorridos!5&1^13#9*19@recorridos!6&1^75#9*19@
+rem|1|Remove!4&1^99#9*18@
+sea|1|Search!4&1^91#9*18@
+she|1|shell!3&1^50#9*18@
+tab|1|table!6&1^72#9*19@
+tie|2|tiempo!5&1^14#9*19@tiempo!6&1^76#9*19@
+-- END TREE

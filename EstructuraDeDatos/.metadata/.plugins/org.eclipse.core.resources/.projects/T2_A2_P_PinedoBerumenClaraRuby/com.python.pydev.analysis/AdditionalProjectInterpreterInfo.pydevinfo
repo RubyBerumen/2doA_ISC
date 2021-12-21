@@ -1,0 +1,53 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T2_A2_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+Ej05_Decimal|1602293350444836300|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej05_Decimal.py
+Ej06_Vocales|1602293392609436500|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej06_Vocales.py
+Ej03_CocientesEnteros|1602290923375784200|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej03_CocientesEnteros.py
+Ej07_CadenaInversa|1602293847023931200|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej07_CadenaInversa.py
+Ej02_Factorial|1602290824565457200|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej02_Factorial.py
+Ej04_DivisoresEnteros|1602292580811537700|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej04_DivisoresEnteros.py
+Ej01_Divisores|1602288957802277000|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej01_Divisores.py
+-- END DISKCACHE
+-- START DICTIONARY
+21
+7=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej05_Decimal.py
+11=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej01_Divisores.py
+16=Vocales
+15=Cocientes
+8=Ej05_Decimal
+2=Ej07_CadenaInversa
+9=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej04_DivisoresEnteros.py
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej07_CadenaInversa.py
+12=Ej01_Divisores
+19=DivisoresEnt
+21=Factorial
+18=Divisores
+5=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej03_CocientesEnteros.py
+17=Decimal
+4=Ej06_Vocales
+6=Ej03_CocientesEnteros
+3=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej06_Vocales.py
+20=CadenaInversa
+14=Ej02_Factorial
+13=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T2_A2_P_PinedoBerumenClaraRuby\Ej02_Factorial.py
+10=Ej04_DivisoresEnteros
+-- END DICTIONARY
+-- START TREE 1
+7
+cad|3|cadena!1^19#1*19@cadena!3^21#1*35@CadenaInversa!1^7#7*17@
+coc|1|Cocientes!5^6#7*49@
+dec|1|Decimal!7^7#7*65@
+div|4|DivisoresEnt!9^7#7*81@divisor!5^33#1*51@dividendo!5^32#1*51@Divisores!11^7#7*97@
+fac|1|Factorial!13^7#7*113@
+num|5|numero1!9^25#1*83@numero!7^22#1*67@numero2!9^26#1*83@numero!13^18#1*115@numero!11^19#1*99@
+voc|1|Vocales!3^6#7*33@
+-- END TREE
+-- START TREE 2
+5
+coc|1|cocientes!15&5^8#9*50@
+con|2|contarVocales!16&3^8#9*34@convertir!17&7^9#9*66@
+div|2|divisoresNumero!18&11^9#9*98@divisoresEnteros!19&9^9#9*82@
+inv|1|invertirCadena!20&1^9#9*18@
+obt|1|obtenerFactorial!21&13^9#9*114@
+-- END TREE

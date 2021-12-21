@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion01_P_Ejemplo_TAD_VectorEspecial\com.python.pydev.analysis\v2_indexcache
+VectorEspecial|1600899733156470300|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\programas\Sesion01_P_Ejemplo_TAD_VectorEspecial\VectorEspecial.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+2=VectorEspecial
+3=VectorEspecial.__init__
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\programas\Sesion01_P_Ejemplo_TAD_VectorEspecial\VectorEspecial.py
+5=VectorEspecial.setTamano
+4=VectorEspecial.setEdades
+-- END DICTIONARY
+-- START TREE 1
+6
+opc|1|opc!1^126#1*19@
+pos|1|posicion!1^160#9*19@
+t|1|t!1^129#1*19@
+ve0|1|ve0!1^127#1*19@
+ve1|1|ve1!1^130#1*19@
+vec|1|VectorEspecial!1^7#7*17@
+-- END TREE
+-- START TREE 2
+14
+__e|2|__edades!3&1^12#9*19@__edades!4&1^19#9*19@
+__i|1|__init__!2&1^11#9*18@
+__t|2|__tamano!3&1^13#9*19@__tamano!5&1^25#9*19@
+aum|1|aumentarTamanoDelArreglo!2&1^62#9*18@
+dis|1|disminuirTamanoDelArreglo!2&1^70#9*18@
+eli|1|eliminarElementoPosicionEspecifica!2&1^92#9*18@
+get|2|getEdades!2&1^15#9*18@getTamano!2&1^21#9*18@
+ins|1|insertarElementoPosicionEspecifica!2&1^82#9*18@
+inv|1|invertirElVector!2&1^102#9*18@
+lle|1|llenarVector!2&1^28#9*18@
+mos|3|mostrarVector!2&1^37#9*18@mostrarElementoFin!2&1^58#9*18@mostrarElementoInicio!2&1^54#9*18@
+obt|3|obtenerCantidadElementos!2&1^51#9*18@obtenerPosicionInicio!2&1^45#9*18@obtenerPosicionFin!2&1^48#9*18@
+set|2|setEdades!2&1^18#9*18@setTamano!2&1^24#9*18@
+val|1|validacionEntero!2&1^108#9*18@
+-- END TREE

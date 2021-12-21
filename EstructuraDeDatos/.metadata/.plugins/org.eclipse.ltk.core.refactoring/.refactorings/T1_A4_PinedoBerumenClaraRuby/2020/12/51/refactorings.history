@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;T1_A4_PinedoBerumenClaraRuby/src/Conjuntos.java&apos; to &apos;PruebaConjuntos.java&apos;" description="Rename resource &apos;Conjuntos.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Conjuntos.java" name="PruebaConjuntos.java" stamp="1608252115263" updateReferences="true"/>
+</session>

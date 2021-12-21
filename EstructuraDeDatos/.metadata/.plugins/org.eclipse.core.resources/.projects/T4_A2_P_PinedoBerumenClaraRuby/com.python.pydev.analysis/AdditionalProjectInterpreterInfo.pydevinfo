@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T4_A2_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+ArbolBinarioBusqueda|1605935987340725100|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T4_A2_P_PinedoBerumenClaraRuby\ArbolBinarioBusqueda.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+2=ArbolBinarioBusqueda
+7=NodoArbol.setNodoDer
+3=NodoArbol.__init__
+8=NodoArbol.setNodoIzq
+10=ArbolBinario.agregarElemento
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T4_A2_P_PinedoBerumenClaraRuby\ArbolBinarioBusqueda.py
+5=NodoArbol
+4=NodoArbol.setDato
+11=ArbolBinario.eliminarElemento
+6=ArbolBinario
+9=ArbolBinario.__init__
+-- END DICTIONARY
+-- START TREE 1
+8
+ab|1|ab!1^191#1*19@
+arb|1|ArbolBinario!1^33#7*17@
+dat|1|dato!1^189#1*19@
+enc|1|encontrado!1^237#9*19@
+nod|1|NodoArbol!1^7#7*17@
+num|1|num!1^190#1*19@
+op|1|op!1^188#1*19@
+opc|1|opc!1^219#13*19@
+-- END TREE
+-- START TREE 2
+13
+__d|2|__dato!3&1^10#13*19@__dato!4&1^19#9*19@
+__i|2|__init__!5&1^8#9*18@__init__!6&1^34#9*18@
+__n|4|__nodoDer!3&1^14#9*19@__nodoDer!7&1^27#9*19@__nodoIzq!3&1^13#9*19@__nodoIzq!8&1^23#9*19@
+__s|1|__str__!5&1^29#9*18@
+agr|1|agregarElemento!6&1^37#9*18@
+bus|1|buscarDato!6&1^176#9*18@
+des|1|desplazar!6&1^57#9*18@
+eli|1|eliminarElemento!6&1^71#9*18@
+get|3|getDato!5&1^16#9*18@getNodoIzq!5&1^20#9*18@getNodoDer!5&1^24#9*18@
+mos|2|mostrarDatoMenor!6&1^164#9*18@mostrarDatoMayor!6&1^151#9*18@
+nod|3|nodoRaiz!9&1^35#9*19@nodoRaiz!10&1^40#13*19@nodoRaiz!11&1^97#21*19@
+rec|3|recorridoPreorden!6&1^133#9*18@recorridoEnorden!6&1^139#9*18@recorridoPostorden!6&1^145#9*18@
+set|3|setNodoDer!5&1^26#9*18@setNodoIzq!5&1^22#9*18@setDato!5&1^18#9*18@
+-- END TREE

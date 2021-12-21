@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A6_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+ListaAspirantes|1608269254655498000|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A6_P_PinedoBerumenClaraRuby\ListaAspirantes.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=Aspirante.__init__
+8=RegistroAspirantes.__init__
+9=RegistroAspirantes.setListaAspirantes
+11=RegistroAspirantes.setNFolio
+2=ListaAspirantes
+6=Aspirante
+4=Aspirante.setEdad
+12=Aspirante.setRedesSociales
+5=Aspirante.setFolio
+10=Aspirante.setNombre
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A6_P_PinedoBerumenClaraRuby\ListaAspirantes.py
+7=RegistroAspirantes
+-- END DICTIONARY
+-- START TREE 1
+9
+asp|1|Aspirante!1^9#7*17@
+eda|1|edad!1^109#1*19@
+fol|1|folio!1^107#1*19@
+nom|1|nombre!1^106#1*19@
+opc|1|opcion!1^108#1*19@
+ra|1|ra!1^105#1*19@
+red|1|redes!1^121#9*19@
+reg|1|RegistroAspirantes!1^57#7*17@
+x|1|x!1^110#1*19@
+-- END TREE
+-- START TREE 2
+11
+__e|2|__edad!3&1^23#13*19@__edad!4&1^45#9*19@
+__f|2|__folio!3&1^13#13*19@__folio!5&1^35#9*19@
+__i|2|__init__!6&1^11#9*18@__init__!7&1^59#9*18@
+__l|2|__listaAspirantes!8&1^61#13*19@__listaAspirantes!9&1^74#9*19@
+__n|4|__Nombre!3&1^18#13*19@__Nombre!10&1^40#9*19@__nFolio!8&1^66#13*19@__nFolio!11&1^79#9*19@
+__r|2|__redesSociales!3&1^28#13*19@__redesSociales!12&1^50#9*19@
+agr|1|agregarAspirante!7&1^82#9*18@
+eli|1|eliminarAspirante!7&1^88#9*18@
+get|6|getFolio!6&1^32#9*18@getNFolio!7&1^76#9*18@getRedesSociales!6&1^47#9*18@getNombre!6&1^37#9*18@getEdad!6&1^42#9*18@getlistaAspirantes!7&1^71#9*18@
+mos|2|mostrar!6&1^52#9*18@mostrarAspirantes!7&1^94#9*18@
+set|6|setNFolio!7&1^78#9*18@setListaAspirantes!7&1^73#9*18@setFolio!6&1^34#9*18@setRedesSociales!6&1^49#9*18@setNombre!6&1^39#9*18@setEdad!6&1^44#9*18@
+-- END TREE

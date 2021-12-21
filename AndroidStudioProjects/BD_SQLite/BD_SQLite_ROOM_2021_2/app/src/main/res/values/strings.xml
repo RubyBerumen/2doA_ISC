@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BD_SQLite_ROOM_2021</string>
+
+    <string name="img_txt">Avatar</string>
+    <string name="lbl_txt_usuario">Usuario</string>
+    <string name="lbl_txt_contraseña">Contraseña</string>
+
+    <string name="btn_txt_registro">REGISTRARSE</string>
+    <string name="btn_txt_acceso">ACCEDER</string>
+
+
+
+
+</resources>

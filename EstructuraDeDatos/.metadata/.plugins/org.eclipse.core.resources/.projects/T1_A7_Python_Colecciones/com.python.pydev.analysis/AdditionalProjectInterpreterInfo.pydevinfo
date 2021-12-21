@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A7_Python_Colecciones\com.python.pydev.analysis\v2_indexcache
+PruebaAlumnosDiccionarios|1602089165865205600|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A7_Python_Colecciones\PruebaAlumnosDiccionarios.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+11=Alumno.setNombre
+9=ListaDeAlumnos.__init__
+7=Alumno
+4=Alumno.setCarrera
+5=Alumno.setEdad
+2=PruebaAlumnosDiccionarios
+3=Alumno.__init__
+6=Alumno.setFechaInscripsion
+8=ListaDeAlumnos
+10=ListaDeAlumnos.setLisAlumnos
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A7_Python_Colecciones\PruebaAlumnosDiccionarios.py
+-- END DICTIONARY
+-- START TREE 1
+7
+alu|1|Alumno!1^8#7*17@
+c|1|c!1^210#9*19@
+car|1|carrera!1^217#9*19@
+d|1|d!1^188#1*19@
+fec|1|fecha!1^190#1*19@
+lis|2|lisA!1^189#1*19@ListaDeAlumnos!1^59#7*17@
+opc|2|opcion!1^194#1*19@opcionx2!1^195#1*19@
+-- END TREE
+-- START TREE 2
+15
+__c|2|__carrera!3&1^21#13*19@__carrera!4&1^46#9*19@
+__e|2|__edad!3&1^16#13*19@__edad!5&1^40#9*19@
+__f|2|__fechaInscripcion!3&1^26#13*19@__fechaInscripcion!6&1^52#9*19@
+__i|2|__init__!7&1^9#9*18@__init__!8&1^61#9*18@
+__l|2|__lisAlumnos!9&1^63#13*19@__lisAlumnos!10&1^70#9*19@
+__n|2|__nombre!3&1^11#13*19@__nombre!11&1^34#9*19@
+__s|1|__str__!7&1^54#9*18@
+cal|1|calcularPromedioPorEdades!8&1^169#9*18@
+cor|1|correcion!8&1^74#9*18@
+fil|1|filtroPorFecha!8&1^178#9*18@
+get|5|getEdad!7&1^36#9*18@getFechaInscripsion!7&1^48#9*18@getLisAlumnos!8&1^67#9*18@getCarrera!7&1^42#9*18@getNombre!7&1^30#9*18@
+lle|3|llenar!8&1^137#9*18@llenadoC!8&1^91#9*18@llenadoF!8&1^112#9*18@
+mos|1|mostrarCarrera!8&1^160#9*18@
+set|5|setLisAlumnos!8&1^69#9*18@setCarrera!7&1^45#9*18@setFechaInscripsion!7&1^51#9*18@setNombre!7&1^33#9*18@setEdad!7&1^39#9*18@
+vac|1|vaciar!8&1^154#9*18@
+-- END TREE

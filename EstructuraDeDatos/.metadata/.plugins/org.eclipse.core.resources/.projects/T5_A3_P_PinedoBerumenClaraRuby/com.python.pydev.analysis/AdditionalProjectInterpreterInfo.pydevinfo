@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T5_A3_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+PruebasEstres|1607317052036286900|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T5_A3_P_PinedoBerumenClaraRuby\PruebasEstres.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+7=NumerosAleatorios
+10=MetodosOrdenamiento.Intercalacion
+6=MetodosOrdenamiento.MezclaNatural.__init__
+4=MetodosOrdenamiento.MezclaNatural
+9=LamadaMetodos
+2=PruebasEstres
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T5_A3_P_PinedoBerumenClaraRuby\PruebasEstres.py
+8=MetodosOrdenamiento
+3=MetodosOrdenamiento.MezclaDirecta
+5=MetodosOrdenamiento.MezclaDirecta.__init__
+-- END DICTIONARY
+-- START TREE 1
+7
+lam|1|LamadaMetodos!1^234#7*17@
+lm|1|lm!1^243#1*19@
+met|1|MetodosOrdenamiento!1^17#7*17@
+na1|1|na1!1^244#1*19@
+na2|1|na2!1^245#1*19@
+na3|1|na3!1^246#1*19@
+num|1|NumerosAleatorios!1^10#7*17@
+-- END TREE
+-- START TREE 2
+9
+__i|2|__init__!3&1^73#13*18@__init__!4&1^125#13*18@
+com|2|comparaciones!5&1^74#13*19@comparaciones!6&1^126#13*19@
+gen|1|generarNumeros!7&1^11#9*18@
+int|3|Intercalacion!8&1^19#11*17@intercambios!5&1^75#13*19@intercambios!6&1^127#13*19@
+lla|3|llamadaMezclaNatural!4&1^223#13*18@llamadaMezclaDirecta!3&1^112#13*18@llamar!9&1^236#9*18@
+mez|5|mezclaDirecta2!4&1^165#13*18@mezclaNatural!4&1^196#13*18@MezclaDirecta!8&1^72#11*17@MezclaNatural!8&1^123#11*17@mezclaDirecta!4&1^131#13*18@
+ord|2|ordenamientoMezclaDirecta!3&1^79#13*18@ordenar!10&1^21#13*18@
+rec|2|recorridos!5&1^76#13*19@recorridos!6&1^128#13*19@
+tie|2|tiempo!5&1^77#13*19@tiempo!6&1^129#13*19@
+-- END TREE

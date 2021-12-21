@@ -1,0 +1,15 @@
+package baseDeDatos;
+
+import androidx.room.Database;
+import androidx.room.RoomDatabase;
+
+import controladoresDAO.AlumnoDAO;
+import entidades.Alumno;
+
+@Database(entities = {Alumno.class}, version = 1,exportSchema = false)
+
+public abstract class EscuelaBD extends RoomDatabase {
+
+    public  abstract AlumnoDAO alumnoDAO();
+
+}

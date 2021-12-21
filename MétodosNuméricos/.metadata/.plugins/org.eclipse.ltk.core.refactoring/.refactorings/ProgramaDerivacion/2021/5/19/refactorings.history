@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Derivacion&apos; to &apos;PruebaDerivacion&apos;&#x0D;&#x0A;- Original project: &apos;ProgramaDerivacion&apos;&#x0D;&#x0A;- Original element: &apos;Derivacion&apos;&#x0D;&#x0A;- Renamed element: &apos;PruebaDerivacion&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Derivacion&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Derivacion.java[Derivacion" matchStrategy="1" name="PruebaDerivacion" qualified="false" references="true" similarDeclarations="false" stamp="1620409771032" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_baja"
+        android:layout_width="124dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="194dp"
+        android:layout_marginEnd="48dp"
+        android:onClick="abrirActivities"
+        android:text="ELIMINAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_cambio"
+        android:layout_width="124dp"
+        android:layout_height="107dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="97dp"
+        android:onClick="abrirActivities"
+        android:text="MODIFICAR"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_alta" />
+
+    <Button
+        android:id="@+id/btn_consulta"
+        android:layout_width="124dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="97dp"
+        android:layout_marginEnd="48dp"
+        android:onClick="abrirActivities"
+        android:text="BUSCAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_baja" />
+
+    <Button
+        android:id="@+id/btn_alta"
+        android:layout_width="124dp"
+        android:layout_height="107dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="67dp"
+        android:onClick="abrirActivities"
+        android:text="AGREGAR"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+        android:id="@+id/btn_cs"
+        android:layout_width="227dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="92dp"
+        android:text="CERRAR SESION"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_cambio" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="79dp"
+        android:layout_height="74dp"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="53dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="152dp"
+        android:text="Menu BD"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:id="@+id/img_usuario"
+        android:layout_width="142dp"
+        android:layout_height="136dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="148dp"
+        android:contentDescription="@string/txt_desc_imagen"
+        android:src="@mipmap/usuario"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@mipmap/usuario" />
+
+    <EditText
+        android:id="@+id/caja_contraseña"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints="user"
+        android:ems="10"
+        android:hint="@string/txt_caja_contraseña"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_contraseña" />
+
+    <TextView
+        android:id="@+id/textView_usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="248dp"
+        android:text="@string/txt_usuario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_acceder"
+        android:layout_width="150dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="40dp"
+        android:onClick="accesoLogin"
+        android:text="@string/txt_btn_aceptar_login"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/caja_contraseña" />
+
+    <EditText
+        android:id="@+id/caja_usuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints="passwword"
+        android:ems="10"
+        android:hint="@string/txt_caja_usuario"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_usuario" />
+
+    <TextView
+        android:id="@+id/textView_contraseña"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="76dp"
+        android:text="@string/txt_contraseña"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/caja_usuario" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

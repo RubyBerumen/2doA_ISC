@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T3_A5_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+ListaDoblementeEnlazada|1604892587388858800|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T3_A5_P_PinedoBerumenClaraRuby\ListaDoblementeEnlazada.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+11=ListaDoblementeEnlazada.eliminarAlInicio
+3=Nodo
+5=Nodo.setInfo
+4=Nodo.__init__
+8=ListaDoblementeEnlazada.__init__
+6=Nodo.setNodoSiguiente
+13=ListaDoblementeEnlazada.eliminarDatoEspecifico
+10=ListaDoblementeEnlazada.agregarAlFinal
+9=ListaDoblementeEnlazada.agregarAlInicio
+7=Nodo.setNodoAnterior
+12=ListaDoblementeEnlazada.eliminarAlFinal
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T3_A5_P_PinedoBerumenClaraRuby\ListaDoblementeEnlazada.py
+2=ListaDoblementeEnlazada
+-- END DICTIONARY
+-- START TREE 1
+6
+inf|2|info!1^142#1*19@info1!1^159#17*19@
+lde|1|lde!1^140#1*19@
+lis|1|ListaDoblementeEnlazada!1^34#7*17@
+nod|1|Nodo!1^7#7*17@
+num|1|num!1^182#17*19@
+opc|1|opcion!1^141#1*19@
+-- END TREE
+-- START TREE 2
+10
+__i|4|__init__!3&1^8#9*18@__init__!2&1^35#9*18@__info!4&1^10#13*19@__info!5&1^19#9*19@
+__n|4|__nodoSiguiente!4&1^13#9*19@__nodoSiguiente!6&1^23#9*19@__nodoAnterior!4&1^14#9*19@__nodoAnterior!7&1^27#9*19@
+__s|1|__str__!3&1^30#9*18@
+agr|2|agregarAlInicio!2&1^42#9*18@agregarAlFinal!2&1^52#9*18@
+eli|3|eliminarAlInicio!2&1^64#9*18@eliminarDatoEspecifico!2&1^94#9*18@eliminarAlFinal!2&1^75#9*18@
+get|3|getNodoAnterior!3&1^24#9*18@getNodoSiguiente!3&1^20#9*18@getInfo!3&1^16#9*18@
+mos|1|mostrarElementos!2&1^130#9*18@
+nod|14|nodoInicio!8&1^36#9*19@nodoInicio!9&1^45#13*19@nodoInicio!10&1^55#13*19@nodoInicio!11&1^68#13*19@nodoInicio!12&1^80#13*19@nodoInicio!13&1^100#13*19@nodoAnterior!12&1^83#13*19@nodoFin!8&1^37#9*19@nodoFin!9&1^46#13*19@nodoFin!10&1^56#13*19@nodoFin!11&1^69#13*19@nodoFin!12&1^81#13*19@nodoFin!13&1^103#13*19@nodoSiguiente!12&1^84#13*19@
+set|3|setNodoSiguiente!3&1^22#9*18@setNodoAnterior!3&1^26#9*18@setInfo!3&1^18#9*18@
+vac|1|vacia!2&1^39#9*18@
+-- END TREE

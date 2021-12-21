@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion05_P_EjemploDiccionarios\com.python.pydev.analysis\v2_indexcache
+Ejemplo_Diccionarios|1601491730478467700|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion05_P_EjemploDiccionarios\Ejemplo_Diccionarios.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion05_P_EjemploDiccionarios\Ejemplo_Diccionarios.py
+2=Ejemplo_Diccionarios
+-- END DICTIONARY
+-- START TREE 1
+8
+a1|1|a1!1^21#1*19@
+alu|1|Alumno!1^19#7*17@
+d1|1|d1!1^7#1*19@
+d2|1|d2!1^8#1*19@
+d3|1|d3!1^23#1*19@
+dic|1|diccionario!1^17#1*19@
+lis|1|lista!1^15#1*19@
+tup|1|tupla!1^16#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

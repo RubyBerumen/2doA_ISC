@@ -1,0 +1,58 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\ProyectoFinalJuegoAhorcado3_P\com.python.pydev.analysis\v2_indexcache
+JuegoAhorcado3_P|1607448234754753900|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\ProyectoFinalJuegoAhorcado3_P\JuegoAhorcado3_P.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+2=JuegoAhorcado3_P
+5=JuegoAhorcado
+14=PruebaJuegoahorcado.munuOpciones
+4=AlmacenarLetras
+9=Oportunidades.__init__
+7=JuegoAhorcado.__init__
+13=PruebaJuegoahorcado
+6=Archivo
+10=Oportunidades.setIntentos
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\ProyectoFinalJuegoAhorcado3_P\JuegoAhorcado3_P.py
+12=AlmacenarLetras.setLetras
+3=Oportunidades
+11=AlmacenarLetras.__init__
+8=BusquedaBinaria
+15=Shellsort
+-- END DICTIONARY
+-- START TREE 1
+8
+alm|1|AlmacenarLetras!1^145#7*17@
+arc|1|Archivo!1^65#7*17@
+bus|1|BusquedaBinaria!1^30#7*17@
+jue|1|JuegoAhorcado!1^194#7*17@
+opo|1|Oportunidades!1^51#7*17@
+pja|1|pja!1^317#1*19@
+pru|1|PruebaJuegoahorcado!1^274#7*17@
+she|1|Shellsort!1^10#7*17@
+-- END TREE
+-- START TREE 2
+21
+__i|3|__init__!3&1^53#9*18@__init__!4&1^147#9*18@__init__!5&1^195#9*18@
+agr|2|agregar!4&1^162#9*18@agregarPalabras!6&1^94#9*18@
+arc|1|archivoVacio!6&1^142#9*18@
+bb|1|bb!7&1^198#9*19@
+bus|1|busqueda!8&1^32#9*18@
+car|2|cargarPalabras!6&1^130#9*18@cargarPalabras!5&1^250#9*18@
+des|1|descontarIntento!3&1^62#9*18@
+ele|1|elegirPalabra!5&1^253#9*18@
+eli|1|eliminar!6&1^86#9*18@
+get|2|getLetras!4&1^150#9*18@getIntentos!3&1^56#9*18@
+ini|1|inicioAhorcado!5&1^200#9*18@
+int|2|intentos!9&1^54#9*19@intentos!10&1^60#9*19@
+let|3|letrasIngresadas!7&1^196#9*19@letras!11&1^148#9*19@letras!12&1^154#9*19@
+mun|1|munuOpciones!13&1^276#9*18@
+obt|2|obtenerLetrasDisponibles!5&1^241#9*18@obtenerPalabraAdivinada!4&1^177#9*18@
+op|2|op!7&1^197#9*19@op!14&1^289#21*19@
+ord|2|ordenar!15&1^12#9*18@ordenar!6&1^117#9*18@
+qui|1|quitar!4&1^156#9*18@
+sea|1|seAdivinoPalabra!5&1^257#9*18@
+set|2|setLetras!4&1^153#9*18@setIntentos!3&1^59#9*18@
+ver|1|verificar!6&1^67#9*18@
+-- END TREE

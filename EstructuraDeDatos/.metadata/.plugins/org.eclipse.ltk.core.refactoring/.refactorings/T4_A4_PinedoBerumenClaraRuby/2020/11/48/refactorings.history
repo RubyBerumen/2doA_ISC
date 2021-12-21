@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Grafos&apos; to &apos;EjemploGrafos&apos;&#x0D;&#x0A;- Original project: &apos;T4_A4_PinedoBerumenClaraRuby&apos;&#x0D;&#x0A;- Original element: &apos;Grafos&apos;&#x0D;&#x0A;- Renamed element: &apos;EjemploGrafos&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Grafos&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Grafos.java[Grafos" matchStrategy="1" name="EjemploGrafos" qualified="false" references="true" similarDeclarations="true" stamp="1606518795234" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A3_P_TAD_Strings\com.python.pydev.analysis\v2_indexcache
+T1_A3_P_TAD_Strings|1600908715534843700|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\programas\T1_A3_P_TAD_Strings\T1_A3_P_TAD_Strings.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+3=VectorEspecialString
+2=T1_A3_P_TAD_Strings
+4=VectorEspecialString.__init__
+5=VectorEspecialString.setPalabras
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\programas\T1_A3_P_TAD_Strings\T1_A3_P_TAD_Strings.py
+-- END DICTIONARY
+-- START TREE 1
+9
+cad|1|cad!1^185#9*19@
+car|1|caracter!1^174#9*19@
+opc|1|opc!1^148#1*19@
+pal|1|palabras!1^154#1*19@
+pos|1|pos!1^173#9*19@
+sub|1|sub!1^171#9*19@
+sz|1|sz!1^151#1*19@
+vec|1|VectorEspecialString!1^6#7*17@
+ves|2|ves0!1^147#1*19@ves1!1^157#1*19@
+-- END TREE
+-- START TREE 2
+9
+__i|1|__init__!3&1^8#9*18@
+__p|2|__palabras!4&1^9#9*19@__palabras!5&1^14#9*19@
+agr|2|agregarSubcadenaPosicionEspecifica!3&1^70#9*18@agregarCaracterPosicionEspecifica!3&1^25#9*18@
+cam|1|camelCaseEspecial!3&1^108#9*18@
+eli|2|eliminarCaracterPosicionEspecifica!3&1^47#9*18@eliminarSubcadenaPosicionEspecifica!3&1^88#9*18@
+get|1|getPalabras!3&1^11#9*18@
+mos|2|mostrarCapitalizado!3&1^126#9*18@mostrarCadenaInvertida!3&1^16#9*18@
+set|1|setPalabras!3&1^13#9*18@
+val|1|validacionNatural!3&1^131#9*18@
+-- END TREE

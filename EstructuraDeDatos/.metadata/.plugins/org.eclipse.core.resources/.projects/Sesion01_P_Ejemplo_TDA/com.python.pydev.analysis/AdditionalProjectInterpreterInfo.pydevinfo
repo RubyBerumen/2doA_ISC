@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion01_P_Ejemplo_TDA\com.python.pydev.analysis\v2_indexcache
+Prueba_Vector|1601695235575654800|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion01_P_Ejemplo_TDA\Prueba_Vector.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion01_P_Ejemplo_TDA\Prueba_Vector.py
+2=Prueba_Vector
+3=VectorEspecial
+4=VectorEspecial.__init__
+5=VectorEspecial.incrementarTama√
+-- END DICTIONARY
+-- START TREE 1
+1
+vec|1|VectorEspecial!1^7#7*17@
+-- END TREE
+-- START TREE 2
+7
+__i|1|__init__!3&1^13#9*18@
+__s|1|__str__!3&1^29#9*18@
+eda|2|edades!4&1^14#9*19@edades!5&1^53#9*19@
+inc|1|incrementarTama√!3&1^49#9*18@
+lle|1|llenarVector!3&1^17#9*18@
+mos|3|mostrarVector!3&1^23#9*18@mostrarPrimerElemento!3&1^43#9*18@mostrarElementoFinal!3&1^46#9*18@
+obt|3|obtenerPosicionInicio!3&1^34#9*18@obtenerCantidadElementos!3&1^40#9*18@obtenerPosicionFinal!3&1^37#9*18@
+-- END TREE

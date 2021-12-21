@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;archivos&apos; to &apos;T1_A3_PinedoBerumenClaraRuby&apos;&#x0D;&#x0A;- Original project: &apos;T1_A2_PinedoBerumenClaraRuby&apos;&#x0D;&#x0A;- Destination element: &apos;T1_A3_PinedoBerumenClaraRuby&apos;&#x0D;&#x0A;- Original element: &apos;archivos&apos;" description="Copy folder" destination="=T1_A3_PinedoBerumenClaraRuby" element1="archivos" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1613169209059" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,70 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T4_A4_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+EjemploGrafos|1606587022259451800|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T4_A4_P_PinedoBerumenClaraRuby\EjemploGrafos.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+11=Arco.__init__
+7=Arco
+14=GrafoMatriz.__init__
+16=GrafoMatriz.nuevoVertice
+2=EjemploGrafos
+8=ColaLista.insertar
+5=Nodo
+10=Nodo.__init__
+18=Nodo.setEnlace
+4=GrafoMatriz
+12=ColaLista.__init__
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T4_A4_P_PinedoBerumenClaraRuby\EjemploGrafos.py
+9=ColaLista.borrarCola
+6=ColaLista
+17=Vertice.asigVert
+3=Vertice
+15=Vertice.__init__
+13=ColaLista.quitar
+-- END DICTIONARY
+-- START TREE 1
+11
+a|1|a!1^221#9*19@
+arc|1|Arco!1^186#7*17@
+b|1|b!1^222#9*19@
+col|1|ColaLista!1^152#7*17@
+gm|1|gm!1^206#1*19@
+gra|1|GrafoMatriz!1^31#7*17@
+nod|1|Nodo!1^126#7*17@
+num|1|numV!1^205#1*19@
+op|1|op!1^216#5*19@
+ori|1|origen!1^238#9*19@
+ver|1|Vertice!1^10#7*17@
+-- END TREE
+-- START TREE 2
+27
+__i|5|__init__!3&1^12#9*18@__init__!4&1^33#9*18@__init__!5&1^128#9*18@__init__!6&1^154#9*18@__init__!7&1^188#9*18@
+__s|1|__str__!3&1^27#9*18@
+_fi|1|_fin!8&1^164#9*19@
+_fr|1|_frente!9&1^175#13*19@
+ady|1|adyacente!4&1^86#9*18@
+asi|1|asigVert!3&1^24#9*18@
+bor|1|borrarCola!6&1^173#9*18@
+col|1|colaVacia!6&1^182#9*18@
+dat|1|dato!10&1^130#13*19@
+des|1|destino!11&1^189#9*19@
+ele|1|elemento!10&1^138#13*19@
+equ|2|equals!3&1^21#9*18@equals!7&1^197#9*18@
+fin|1|fin!12&1^156#9*19@
+fre|4|frente!12&1^155#9*19@frente!8&1^161#13*19@frente!13&1^169#13*19@frenteCola!6&1^176#9*18@
+get|3|getDestino!7&1^195#9*18@getDato!5&1^142#9*18@getEnlace!5&1^145#9*18@
+ins|1|insertar!6&1^158#9*18@
+mat|1|matAd!14&1^37#9*19@
+max|1|maxVerts!14&1^36#9*19@
+nom|2|nombre!15&1^15#9*19@nomVertice!3&1^18#9*18@
+nue|2|nuevoVertice!4&1^52#9*18@nuevoArco!4&1^76#9*18@
+num|5|numVertice!4&1^61#9*18@numVerts!14&1^49#9*19@numVerts!16&1^58#13*19@numVertice!15&1^16#9*19@numVertice!17&1^25#9*19@
+pes|1|peso!11&1^191#13*19@
+qui|1|quitar!6&1^165#9*18@
+rec|1|recorrerAnchura!4&1^96#9*18@
+set|1|setEnlace!5&1^148#9*18@
+sig|2|siguiente!10&1^134#13*19@siguiente!18&1^149#9*19@
+ver|1|verts!14&1^42#9*19@
+-- END TREE

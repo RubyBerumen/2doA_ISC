@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\clara\Documents\VerificaciónRedundancia"/>
+			<item value="C:\Users\clara\Documents\CorreccionRedundancia"/>
+			<item value="C:\Users\clara\Downloads\ExSegundaOp\Examen3"/>
+			<item value="C:\Users\clara\Downloads\ExSegundaOp\Sesion15_Ejemplo_Acceso_Datos"/>
+			<item value="C:\Users\clara\Downloads\ExSegundaOp\ExaSegundaOpParcial1"/>
+			<item value="C:\Users\clara\Downloads\t1_a6\T1_A6_InternalFrames-main"/>
+			<item value="C:\Users\clara\Downloads\ProyectoF\ProyectoFinalTopicos-main"/>
+			<item value="C:\Users\clara\Downloads\ProyectoF\ProyectoFinalABCC-main"/>
+			<item value="C:\Users\clara\Downloads\SistemaVentas\Punto Venta#2\BotanasPlebes_9"/>
+			<item value="C:\Users\clara\Downloads\ProgramaDerivacion"/>
+			<item value="C:\Users\clara\Downloads\Calculadora_Derivadas"/>
+			<item value="C:\Users\clara\Downloads\Acceso a Datos\Sesion15_Ejemplo_Acceso_Datos"/>
+			<item value="C:\Users\clara\Downloads\Sesion16Pantallas\Sesion16_Practicas_Con_Pantallas_Y_Bases_De_Datos"/>
+			<item value="C:\Users\clara\Downloads\Sesion15_Ejemplo_Acceso_Datos"/>
+			<item value="C:\Users\clara\Downloads\Opcional"/>
+			<item value="C:\Users\clara\Downloads\Sesion14_Ejemplo_Productor_Consumidor_Sincronizacion"/>
+			<item value="C:\Users\clara\Downloads\Sesion14_Ejemplo_Productor_Consumidor_Sincronizacion\src"/>
+			<item value="C:\Users\clara\Downloads\T3_A3_ConcurrenciaHowToProgramWithJava"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\T2_A2_Paquetes1"/>
+			<item value="C:\Users\clara\Downloads\T2_A2_Paquetesss"/>
+			<item value="C:\Users\clara\Downloads\T2_A2_Paquetes"/>
+			<item value="C:\Users\clara\Downloads\Sesion08_Ejemplo_GUI_Python"/>
+			<item value="C:\Users\clara\Downloads\Sesion08_P_Ejemplo_Posicionamiento"/>
+			<item value="C:\Users\clara\Downloads\Sesion10_Ejemplo_Paquetes1"/>
+			<item value="C:\Users\clara\Downloads\ProgramaSolucionRaiz"/>
+			<item value="C:\Users\clara\Downloads\__MACOSX\Sesion04_Ejemplo_GridbagLayout"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="380"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="19"/>
+		<item key="DIALOG_Y_ORIGIN" value="-27"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

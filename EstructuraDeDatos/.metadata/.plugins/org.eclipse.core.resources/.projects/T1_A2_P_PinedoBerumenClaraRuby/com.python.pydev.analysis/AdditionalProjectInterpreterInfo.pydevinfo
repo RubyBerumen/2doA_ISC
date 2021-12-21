@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A2_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+VectorEspecial|1608239389679244900|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A2_P_PinedoBerumenClaraRuby\VectorEspecial.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A2_P_PinedoBerumenClaraRuby\VectorEspecial.py
+2=VectorEspecial
+4=VectorEspecial.setArreglo
+3=VectorEspecial.__init__
+5=VectorEspecial.setTamano
+-- END DICTIONARY
+-- START TREE 1
+6
+opc|1|opc!1^129#1*19@
+pos|1|posicion!1^176#9*19@
+t|1|t!1^133#1*19@
+ve0|1|ve0!1^130#1*19@
+ve1|1|ve1!1^134#1*19@
+vec|1|VectorEspecial!1^8#7*17@
+-- END TREE
+-- START TREE 2
+14
+__a|2|__arreglo!3&1^14#9*19@__arreglo!4&1^21#9*19@
+__i|1|__init__!2&1^13#9*18@
+__t|2|__tamano!3&1^15#9*19@__tamano!5&1^27#9*19@
+aum|1|aumentarTamanoDelArreglo!2&1^63#9*18@
+dis|1|disminuirTamanoDelArreglo!2&1^71#9*18@
+eli|1|eliminarElementoPosicionEspecifica!2&1^94#9*18@
+get|2|getArreglo!2&1^17#9*18@getTamano!2&1^23#9*18@
+ins|1|insertarElementoPosicionEspecifica!2&1^83#9*18@
+inv|1|invertirElVector!2&1^105#9*18@
+lle|1|llenarVector!2&1^30#9*18@
+mos|3|mostrarVector!2&1^49#9*18@mostrarElementoFin!2&1^58#9*18@mostrarElementoInicio!2&1^53#9*18@
+obt|3|obtenerCantidadElementos!2&1^45#9*18@obtenerPosicionInicio!2&1^37#9*18@obtenerPosicionFin!2&1^41#9*18@
+set|2|setTamano!2&1^26#9*18@setArreglo!2&1^20#9*18@
+val|1|validacionEntero!2&1^111#9*18@
+-- END TREE

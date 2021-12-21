@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Burbuja"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Insercion"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Seleccion"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Quicksort"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Shellsort"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Radix"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.MezclaNatural"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.Intercalacion"/>
+    <fullyQualifiedTypeName name="MetodosOrdenamiento.MezclaDirecta"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

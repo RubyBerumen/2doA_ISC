@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A6_Python_AlumnosFolio\com.python.pydev.analysis\v2_indexcache
+PruebaMemoria|1601661491031491400|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A6_Python_AlumnosFolio\PruebaMemoria.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=PruebaMemoria
+8=RegistroDeAlumnos.__init__
+5=Alumno.setFolio
+7=RegistroDeAlumnos
+10=Alumno.setNombre
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T1_A6_Python_AlumnosFolio\PruebaMemoria.py
+11=RegistroDeAlumnos.setNumFol
+6=Alumno
+9=RegistroDeAlumnos.setListaA
+4=Alumno.setEdad
+3=Alumno.__init__
+12=Alumno.setRs
+-- END DICTIONARY
+-- START TREE 1
+7
+alu|1|Alumno!1^6#7*17@
+eda|1|edad!1^128#1*19@
+fol|1|folio!1^126#1*19@
+nom|1|nombre!1^125#1*19@
+opc|1|opcion!1^127#1*19@
+red|1|redes!1^138#9*19@
+reg|2|RegistroDeAlumnos!1^54#7*17@regAlu!1^124#1*19@
+-- END TREE
+-- START TREE 2
+12
+__e|2|__edad!3&1^20#13*19@__edad!4&1^42#9*19@
+__f|2|__folio!3&1^10#13*19@__folio!5&1^32#9*19@
+__i|2|__init__!6&1^8#9*18@__init__!7&1^58#9*18@
+__l|2|__listaA!8&1^60#13*19@__listaA!9&1^74#9*19@
+__n|4|__nombre!3&1^15#13*19@__nombre!10&1^37#9*19@__numFol!8&1^65#13*19@__numFol!11&1^80#9*19@
+__r|2|__rs!3&1^25#13*19@__rs!12&1^47#9*19@
+agr|1|agregar!7&1^99#9*18@
+cor|1|correccion!7&1^82#9*18@
+eli|1|eliminar!7&1^106#9*18@
+get|6|getEdad!6&1^39#9*18@getFolio!6&1^29#9*18@getRs!6&1^44#9*18@getlistaA!7&1^70#9*18@getNumFol!7&1^76#9*18@getNombre!6&1^34#9*18@
+mos|2|mostrar!6&1^49#9*18@mostrar!7&1^113#9*18@
+set|6|setFolio!6&1^31#9*18@setRs!6&1^46#9*18@setNumFol!7&1^79#9*18@setNombre!6&1^36#9*18@setEdad!6&1^41#9*18@setListaA!7&1^73#9*18@
+-- END TREE

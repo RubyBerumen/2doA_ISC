@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A4_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+PruebaConjuntos|1608258038015456300|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T1_A4_P_PinedoBerumenClaraRuby\PruebaConjuntos.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+5=Conjunto
+2=PruebaConjuntos
+3=Conjunto.__init__
+4=Conjunto.setElementos
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T1_A4_P_PinedoBerumenClaraRuby\PruebaConjuntos.py
+-- END DICTIONARY
+-- START TREE 1
+4
+a|1|a!1^84#1*19@
+b|1|b!1^97#1*19@
+con|7|conjB!1^103#1*19@Conjunto!1^7#7*17@conjuntoA!1^85#1*19@conjA!1^102#1*19@cont!1^83#1*19@conjuntoB!1^95#1*19@conjunto!1^81#1*19@
+opc|1|opc!1^109#1*19@
+-- END TREE
+-- START TREE 2
+9
+__e|2|__elementos!3&1^11#13*19@__elementos!4&1^18#9*19@
+__i|1|__init__!5&1^9#9*18@
+dif|1|diferencia!5&1^59#9*18@
+eli|1|eliminarDuplicados!5&1^28#9*18@
+get|1|getElementos!5&1^15#9*18@
+int|1|interseccion!5&1^43#9*18@
+mos|1|mostrarElementos!5&1^20#9*18@
+set|1|setElementos!5&1^17#9*18@
+uni|1|union!5&1^32#9*18@
+-- END TREE

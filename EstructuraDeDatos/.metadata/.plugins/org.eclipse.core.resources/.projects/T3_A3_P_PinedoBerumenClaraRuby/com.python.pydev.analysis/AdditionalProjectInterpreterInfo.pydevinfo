@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T3_A3_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+ListasEnlazadas|1604894978964397300|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T3_A3_P_PinedoBerumenClaraRuby\ListasEnlazadas.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+6=Nodo.setSet
+9=ListaEnlazada.__init__
+3=Nodo
+5=Nodo.__init__
+13=ListaEnlazada.eliminarDatoEspecifico
+4=ListaEnlazada
+7=Nodo.setnSiguiente
+10=ListaEnlazada.agregarElementoAlInicio
+11=ListaEnlazada.agregarElementoAlFinal
+12=ListaEnlazada.eliminarElementoAlInicio
+8=ListaEnlazada.eliminarElementoAlFinal
+2=ListasEnlazadas
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\T3_A3_P_PinedoBerumenClaraRuby\ListasEnlazadas.py
+-- END DICTIONARY
+-- START TREE 1
+6
+inf|1|info!1^130#1*19@
+le|1|le!1^127#1*19@
+lis|1|ListaEnlazada!1^28#7*17@
+nod|1|Nodo!1^6#7*17@
+num|1|num!1^128#1*19@
+opc|1|opcion!1^129#1*19@
+-- END TREE
+-- START TREE 2
+10
+__i|4|__init__!3&1^7#9*18@__init__!4&1^29#9*18@__info!5&1^9#13*19@__info!6&1^17#9*19@
+__n|2|__nSiguiente!5&1^12#9*19@__nSiguiente!7&1^22#9*19@
+__s|1|__str__!3&1^24#9*18@
+agr|2|agregarElementoAlInicio!4&1^36#9*18@agregarElementoAlFinal!4&1^45#9*18@
+eli|3|eliminarDatoEspecifico!4&1^85#9*18@eliminarElementoAlFinal!4&1^66#9*18@eliminarElementoAlInicio!4&1^56#9*18@
+get|2|getnSiguiente!3&1^19#9*18@getInfo!3&1^14#9*18@
+mos|1|mostrarElementos!4&1^116#9*18@
+nod|14|nodoSiguiente!8&1^75#13*19@nodoFin!9&1^31#9*19@nodoFin!10&1^40#13*19@nodoFin!11&1^49#13*19@nodoFin!12&1^61#13*19@nodoFin!8&1^72#13*19@nodoFin!13&1^92#13*19@nodoInicio!9&1^30#9*19@nodoInicio!10&1^39#13*19@nodoInicio!11&1^48#13*19@nodoInicio!12&1^60#13*19@nodoInicio!8&1^71#13*19@nodoInicio!13&1^91#13*19@nodoAnterior!8&1^74#13*19@
+set|2|setSet!3&1^16#9*18@setnSiguiente!3&1^21#9*18@
+vac|1|vacia!4&1^33#9*18@
+-- END TREE

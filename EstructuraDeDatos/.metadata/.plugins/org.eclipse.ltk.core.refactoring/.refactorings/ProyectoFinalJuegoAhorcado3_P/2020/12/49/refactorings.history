@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ProyectoFinalJuegoAhorcado3_P/palabras&apos; to &apos;palabras.txt&apos;" description="Rename resource &apos;palabras&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="palabras" name="palabras.txt" stamp="1606842004097" updateReferences="true"/>
+</session>

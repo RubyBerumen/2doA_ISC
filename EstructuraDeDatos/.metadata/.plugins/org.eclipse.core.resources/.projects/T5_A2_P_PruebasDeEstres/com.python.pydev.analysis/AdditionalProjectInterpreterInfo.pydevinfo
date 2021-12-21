@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T5_A2_P_PruebasDeEstres\com.python.pydev.analysis\v2_indexcache
+PruebaPruebasDeEstres|1606713226000000000|C:\Users\clara\Documents\Cosas descargadas\PruebasEs\T5_A2_P_PruebasEs\PruebaPruebasDeEstres.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+12=MetodosOrdenamiento.Shellsort
+1=C:\Users\clara\Documents\Cosas descargadas\PruebasEs\T5_A2_P_PruebasEs\PruebaPruebasDeEstres.py
+6=MetodosOrdenamiento.Radix
+9=MetodosOrdenamiento.Insercion
+10=MetodosOrdenamiento.Seleccion
+11=MetodosOrdenamiento.__init__
+4=MetodosOrdenamiento.QuickSort
+7=GeneracionNumeros
+5=MetodosOrdenamiento.QuickSort.__init__
+8=MetodosOrdenamiento.Burbuja
+3=MetodosOrdenamiento
+2=PruebaPruebasDeEstres
+-- END DICTIONARY
+-- START TREE 1
+5
+gen|1|GeneracionNumeros!1^11#7*17@
+met|2|MetodosOrdenamiento!1^18#7*17@metodos!1^318#1*19@
+mo|1|mo!1^316#1*19@
+num|1|nums!1^322#5*19@
+t|1|t!1^320#1*19@
+-- END TREE
+-- START TREE 2
+15
+__i|2|__init__!3&1^19#9*18@__init__!4&1^181#13*18@
+bur|1|Burbuja!3&1^29#11*17@
+com|1|comparaciones!5&1^182#13*19@
+cou|1|countingSort!6&1^267#13*18@
+gen|1|generarNumerosAleatorios!7&1^12#9*18@
+ins|1|Insercion!3&1^124#11*17@
+int|1|intercambios!5&1^183#13*19@
+lla|1|llamadaQuicksort!4&1^215#13*18@
+ord|5|ordenacionBurbuja1!8&1^30#13*18@ordenacionBurbuja3!8&1^84#13*18@ordenacionInsercion!9&1^125#13*18@ordenacionSeleccion!10&1^155#13*18@ordenacionBurbuja2!8&1^55#13*18@
+qui|2|quicksort!4&1^186#13*18@QuickSort!3&1^180#11*17@
+rad|2|Radix!3&1^265#11*17@radix!6&1^303#13*18@
+rec|1|recorridos!5&1^184#13*19@
+res|1|resultados!11&1^20#9*19@
+sel|1|Seleccion!3&1^154#11*17@
+she|2|Shellsort!3&1^229#11*17@shellsort!12&1^230#13*18@
+-- END TREE

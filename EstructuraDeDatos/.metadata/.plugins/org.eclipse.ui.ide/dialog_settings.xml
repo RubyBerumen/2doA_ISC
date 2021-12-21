@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T3_A3_Filas"/>
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T3_A2_P_Pilas"/>
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T3_A2_Pilas"/>
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T1_A7_P_ColeccionesDict"/>
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T1_A7_ColeccionesHashMap"/>
+			<item value="C:\Users\clara\Documents\Estructura de Datos B\7   Estructura de datos\Estructura_de_datos\T1_A6_P_MemoriaDinamica"/>
+			<item value="C:\Users\clara\Downloads\t6_a2_pruebasestrespython-master"/>
+			<item value="C:\Users\clara\Downloads\T6_A2_PruebasEstresPython-main"/>
+			<item value="C:\Users\clara\Downloads\ProyectoFinalV3_Python"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\PruebasEs\T5_A2_P_PruebasEs"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\PruebasEs\MetodosOrdenamientoBusqueda-main"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\PruebasEs\PruebasEsB"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\PruebasEs\PruebasEsR"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\ProyectoAnterior\ProyectoFinalJuegoAhorcado"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\ProyectoB\ProB"/>
+			<item value="C:\Users\clara\Downloads\Examen3"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\T4_A2_ArbolBinarioBusqueda-main"/>
+			<item value="C:\Users\clara\Documents\Cosas descargadas\MetodosOrdenamientoBusqueda-main"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.python.pydev.ui.wizards.project.PythonProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="380"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T6_A2_PruebasEstresPyhton\com.python.pydev.analysis\v2_indexcache
+Pruebas|1607569970000000000|C:\Users\clara\Downloads\t6_a2_pruebasestrespython-master\Pruebas.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=hash_table
+5=BinarySearch.__init__
+3=BinarySearch
+1=C:\Users\clara\Downloads\t6_a2_pruebasestrespython-master\Pruebas.py
+2=Pruebas
+6=hash_table.__init__
+-- END DICTIONARY
+-- START TREE 1
+9
+ban|1|bandera!1^110#1*19@
+bin|1|BinarySearch!1^9#7*17@
+has|1|hash_table!1^67#7*17@
+num|1|num!1^131#9*19@
+op|1|op!1^129#5*19@
+ord|2|orden!1^115#1*19@orden2!1^116#1*19@
+tfi|1|tFin!1^124#10*19@
+tie|1|tiempoIn!1^124#5*19@
+vec|1|vector100E!1^111#1*19@
+-- END TREE
+-- START TREE 2
+10
+__i|2|__init__!3&1^10#9*18@__init__!4&1^73#9*18@
+bus|1|busquedaBinaria!3&1^19#9*18@
+con|2|contador!5&1^11#9*19@contador!6&1^75#9*19@
+has|1|Hash_func!4&1^78#9*18@
+ins|1|Insert!4&1^85#9*18@
+mez|1|mezclaDirecta!3&1^35#9*18@
+mos|2|mostrarContador!3&1^12#9*18@mostrarContador!4&1^68#9*18@
+rem|1|Remove!4&1^101#9*18@
+sea|1|Search!4&1^91#9*18@
+tab|1|table!6&1^74#9*19@
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;mysql-connector-java-8.0.23.jar&apos; to &apos;conector_java&apos;&#x0D;&#x0A;- Original project: &apos;Sesion15_Ejemplo_Acceso_Datos&apos;&#x0D;&#x0A;- Destination element: &apos;conector_java&apos;&#x0D;&#x0A;- Original element: &apos;mysql-connector-java-8.0.23.jar&apos;" description="Copy file" element1="conector_java/mysql-connector-java-8.0.23.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1622345050279" target="/ProyectoFinal/conector_java" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesion03_Ejemplo_Varias_Activities</string>
+
+
+    <string name="txt_desc_imagen">Logotipo de Usuario</string>
+
+    <string name="txt_usuario">Ingresa tu usuario:</string>
+    <string name="txt_caja_usuario">Correo electronico</string>
+
+    <string name="txt_contraseña">Ingresa tu contraseña:</string>
+    <string name="txt_caja_contraseña">Minimo 8 caracteres</string>
+
+    <string name="txt_btn_aceptar_login"> ACCEDER </string>
+
+    <string name="txt_titulo_calculadoras">ELIGE CALCULADORA</string>
+    <string name="txt_btn_calc_sencilla">SENCILLA</string>
+    <string name="txt_btn_calc_cientifica">CIENTIFICA</string>
+    <string name="txt_btn_calc_prog">PROGRAMACION</string>
+    <string name="txt_btn_calc_graf">GRAFICACION</string>
+
+    <string name="txt_titulo_calc_senc">CALCULADORA SENCILLA</string>
+
+    <string-array name="operaciones">
+        <item>Selecciona operacion...</item>
+        <item>  +  </item>
+        <item>  -  </item>
+        <item>  *  </item>
+        <item>  /  </item>
+    </string-array>
+
+</resources>

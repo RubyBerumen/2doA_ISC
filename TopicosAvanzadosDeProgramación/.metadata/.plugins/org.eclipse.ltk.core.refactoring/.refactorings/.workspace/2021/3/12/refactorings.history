@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Sesion12_Ejemplo_Hilos_Thread&apos; to &apos;Sesion12_Ejemplo_Hilos_Runnable&apos;&#x0D;&#x0A;- Original element: &apos;Sesion12_Ejemplo_Hilos_Thread&apos;&#x0D;&#x0A;- Renamed element: &apos;Sesion12_Ejemplo_Hilos_Thread&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Sesion12_Ejemplo_Hilos_Thread&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Sesion12_Ejemplo_Hilos_Thread" name="Sesion12_Ejemplo_Hilos_Runnable" references="true" stamp="1616084455287" version="1.0"/>
+</session>

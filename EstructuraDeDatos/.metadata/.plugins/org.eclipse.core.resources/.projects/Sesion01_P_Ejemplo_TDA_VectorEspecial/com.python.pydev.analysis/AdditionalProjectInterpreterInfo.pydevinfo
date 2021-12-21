@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion01_P_Ejemplo_TDA_VectorEspecial\com.python.pydev.analysis\v2_indexcache
+VectorEspecial|1600806042000000000|C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion01_P_Ej\VectorEspecial.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=VectorEspecial
+3=VectorEspecial.__init__
+4=VectorEspecial.incrementarTama√
+1=C:\Users\clara\Documents\Cosas descargadas\EstructuraDeDatos\Sesion01_P_Ej\VectorEspecial.py
+-- END DICTIONARY
+-- START TREE 1
+3
+t|1|t!1^61#1*19@
+ve1|1|ve1!1^63#1*19@
+vec|1|VectorEspecial!1^9#7*17@
+-- END TREE
+-- START TREE 2
+7
+__i|1|__init__!2&1^13#9*18@
+__s|1|__str__!2&1^39#9*18@
+eda|2|edades!3&1^14#9*19@edades!4&1^55#9*19@
+inc|1|incrementarTama√!2&1^49#9*18@
+lle|1|llenarVector!2&1^18#9*18@
+mos|3|mostrarPrimerElemento!2&1^42#9*18@mostrarUltimoElemento!2&1^45#9*18@mostarVector!2&1^24#9*18@
+obt|3|obtenerPosicionFinal!2&1^32#9*18@obtenerCantidadElementos!2&1^35#9*18@obtenerPosicionInicio!2&1^29#9*18@
+-- END TREE

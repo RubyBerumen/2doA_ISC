@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\T1_A3_P_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+CadenaEspecial|1608250872609306600|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T1_A3_P_PinedoBerumenClaraRuby\CadenaEspecial.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+2=CadenaEspecial
+3=VectorCadenaEspecial.__init__
+4=VectorCadenaEspecial.setCadena
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\T1_A3_P_PinedoBerumenClaraRuby\CadenaEspecial.py
+5=VectorCadenaEspecial
+-- END DICTIONARY
+-- START TREE 1
+9
+cad|1|cad!1^191#9*19@
+car|1|caracter!1^180#9*19@
+opc|1|opc!1^149#1*19@
+pal|1|palabras!1^155#1*19@
+pos|1|pos!1^179#9*19@
+sub|1|sub!1^177#9*19@
+tam|1|tamano!1^153#1*19@
+vce|2|vce!1^148#1*19@vce1!1^158#1*19@
+vec|1|VectorCadenaEspecial!1^7#7*17@
+-- END TREE
+-- START TREE 2
+10
+__c|2|__cadena!3&1^10#9*19@__cadena!4&1^15#9*19@
+__i|1|__init__!5&1^9#9*18@
+agr|2|agregarSubcadena!5&1^71#9*18@agregarCaracter!5&1^26#9*18@
+cam|1|camelCaseEspecial!5&1^109#9*18@
+eli|2|eliminarCaracter!5&1^48#9*18@eliminarSubcadena!5&1^89#9*18@
+get|1|getCadena!5&1^12#9*18@
+mos|1|mostrarCadenaInvertida!5&1^17#9*18@
+pri|1|primerLetraMayuscula!5&1^127#9*18@
+set|1|setCadena!5&1^14#9*18@
+val|1|validar!5&1^132#9*18@
+-- END TREE

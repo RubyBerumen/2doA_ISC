@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\.metadata\.plugins\org.eclipse.core.resources\.projects\MetodosBusqueda_P\com.python.pydev.analysis\v2_indexcache
+MetodosDeBusqueda|1607114632944730700|C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\MetodosBusqueda_P\MetodosDeBusqueda.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=MetodosBusqueda
+2=MetodosDeBusqueda
+1=C:\Users\clara\Desktop\Programacion\EstructuraDeDatos\MetodosBusqueda_P\MetodosDeBusqueda.py
+4=MetodosBusqueda.BusquedaBinaria
+-- END DICTIONARY
+-- START TREE 1
+5
+bus|1|buscado!1^34#1*19@
+mb|1|mb!1^32#1*19@
+met|1|MetodosBusqueda!1^7#7*17@
+num|1|numeros!1^33#1*19@
+res|1|res!1^37#1*19@
+-- END TREE
+-- START TREE 2
+2
+__i|1|__init__!3&1^8#9*18@
+bus|2|busqueda!4&1^14#13*18@BusquedaBinaria!3&1^12#11*17@
+-- END TREE
